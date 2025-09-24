@@ -4,7 +4,7 @@
 
 <div align="left">
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonySLima&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=000000&text_color=ffffff&hide_border=false&rank_icon=github" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AntonySLima&show_icons=true&count_private=true&theme=dark&bg_color=000000&text_color=ffffff&hide_border=false&rank_icon=github" height="150" alt="stats graph" />
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonySLima&layout=compact&langs_count=5&bg_color=000000&text_color=ffffff&hide_border=false" height="150" alt="languages graph" />
